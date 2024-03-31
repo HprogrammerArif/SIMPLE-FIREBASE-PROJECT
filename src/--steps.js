@@ -28,4 +28,9 @@
  * 13. Activate signin method (google, facebook, github etc)
  * 14. [vite]: change 127.0.0.1 to localhost
  * 
+ * ---------------------
+ * MORE AUTH PROVIDER
+ * ---------------------
+ * 
+ * 1. activate the auth provider (create app, redirect url, client id, client secrect)
  */
